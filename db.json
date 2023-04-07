@@ -1,0 +1,9 @@
+{
+    "userDetails": [
+        {
+            "name": "Ganesh",
+            "age": 23,
+            "gender": "Male"
+        }
+    ]
+}
